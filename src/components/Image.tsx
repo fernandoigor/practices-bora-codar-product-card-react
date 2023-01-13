@@ -13,8 +13,8 @@ export const Imagem = () => {
         <img
           src={
             previewAnimated
-              ? "/src/assets/close-icon.png"
-              : "/src/assets/360-icon.png"
+              ? "https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-product-card-react/main/src/assets/close-icon.png"
+              : "https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-product-card-react/main/src/assets/360-icon.png"
           }
         />
       </button>
