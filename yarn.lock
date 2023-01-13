@@ -461,7 +461,7 @@
   "resolved" "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"
   "version" "0.16.2"
 
-"@types/three@>=0.144.0":
+"@types/three@^0.148.0", "@types/three@>=0.144.0":
   "integrity" "sha512-1GiErjt1pJMadO8EhaxNrtULzdn+f3BbM3YTukiiXBVeRvvx4CXc2rpYdEuEBU/ouCX7Rc95j1HoVG9kFQXQJw=="
   "resolved" "https://registry.npmjs.org/@types/three/-/three-0.148.0.tgz"
   "version" "0.148.0"
