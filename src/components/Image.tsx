@@ -19,9 +19,13 @@ export const Imagem = () => {
         />
       </button>
       {previewAnimated ? (
-        <Scene pathObj={"src/assets/sofa.obj"} />
+        <Scene
+          pathObj={
+            "https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-product-card-react/main/src/assets/sofa.obj"
+          }
+        />
       ) : (
-        <img src="/src/assets/sofa-static.png" />
+        <img src="https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-product-card-react/main/src/assets/sofa-static.png" />
       )}
     </div>
   );
